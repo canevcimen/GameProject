@@ -37,7 +37,7 @@ namespace GameProject
             CampaignManager campaignManager = new CampaignManager();
             campaignManager.Add(campaign1);
             campaignManager.Add(campaign2);
-            
+            .
             SalesManager salesManager = new SalesManager();
             salesManager.Sales(gamer1, game2);
             salesManager.CampaignSales(game2, gamer1, campaign2);
